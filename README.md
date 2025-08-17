@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rianhz&label=Profile%20views&color=0e75b6&style=flat" alt="rianhz" /> </p>
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently working as **Software Developer**
 
 - 👨‍💻 All of my projects are available at [https://rianhz-github-io.vercel.app](https://rianhz-github-io.vercel.app)
-
-- 💬 Ask me about **React JS**
 
 - 📫 How to reach me **rianhidayat.jobs@gmail.com**
 

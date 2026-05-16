@@ -1,10 +1,8 @@
 ![MasterHead](https://res.cloudinary.com/dib36cwwr/image/upload/v1688613638/github-header-image_2_vaxmjc.png)
-<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="400" alt="Coding" align="right" />
-
 
 - 🌱 I’m currently working as **Software Developer**
 
-- 👨‍💻 All of my projects are available at [https://rianhz-github-io.vercel.app](https://rianhz-github-io.vercel.app)
+- 👨‍💻 All of my projects are available at [here](https://rianhz-github-io.vercel.app)
 
 - 📫 How to reach me **rianhidayat.jobs@gmail.com**
 

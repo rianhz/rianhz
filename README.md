@@ -2,8 +2,6 @@
 
 - 🌱 I’m currently working as **Software Developer**
 
-- 👨‍💻 All of my projects are available at [here](https://rianhz-github-io.vercel.app)
-
 - 📫 How to reach me **rianhidayat.jobs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

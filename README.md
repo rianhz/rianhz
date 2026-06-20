@@ -1,5 +1,3 @@
-![MasterHead](https://res.cloudinary.com/dib36cwwr/image/upload/v1688613638/github-header-image_2_vaxmjc.png)
-
 - 🌱 I’m currently working as **Software Developer**
 
 - 📫 How to reach me **rianhidayat.jobs@gmail.com**
